@@ -1,0 +1,231 @@
+#title
+{
+  background-color: #406882;
+}
+
+.navbar{
+  background-color: #406882;
+}
+
+h1
+{
+  color: white;
+  font-family:'Gideon Roman',sans-serif;
+  line-height: 1.5;
+  font-Size: 4rem;
+}
+
+ body{
+   font-family: 'Gideon Roman', sans-serif;
+ }
+
+ .con{
+   padding: 3% 15%;
+ }
+
+ .navbar-brand{
+   font-family: 'Redressed';
+   font-size: 1.1rem;
+   font-weight: bold;
+ }
+
+ .navbar-nav{
+   padding-bottom: 2rem;
+ }
+
+ .nav-item{
+   padding: 0 20px;
+ }
+
+ .nav-link{
+   font-size: 1.2rem;
+ }
+
+.Get-Started-button{
+margin: 5% 3% 5% 0;
+}
+
+.Buy-Now-button{
+margin: 5% 3% 5% 0;
+}
+
+.slayerimg{
+  width: 80%;
+  transform: rotate(0);
+}
+
+
+h2
+{
+  font-family: 'Gideon Roman',sans-serif;
+  color: #black;
+}
+
+h3{
+  font-family: 'Gideon Roman',sans-serif;
+  color: black;
+}
+
+p
+{
+  color: black;
+  font-family: 'Redressed',sans-serif;
+}
+
+.navbar-toggler:hover{
+  color: #1A374D;
+  background: #1A374D;
+}
+
+#features{
+  margin-top: 250px;
+  background-color:#B1D0E0;
+  margin-bottom: 250px;
+}
+
+.dina{
+  color: black;
+  margin: 20px 0 0 0;
+}
+
+.baka{
+  color: black;
+}
+
+.fea{
+  padding: 90px 130px 100px 130px;
+}
+
+.fam{
+  color: #406882;
+  margin-top: 60px;
+}
+
+.fam:hover{
+  color: #1A374D;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #406882;
+  color: white;
+}
+
+.carousel-item{
+  padding: 10% 20%;
+}
+
+.tan1{
+  width: 30%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.tan{
+  width: 20%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #406882;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.jiro{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  text-align: center;
+  padding: 8% 0;
+}
+
+.pri-con{
+padding: 0 7% 5%;
+}
+
+.pri{
+  margin-bottom: 5%;
+}
+
+#cta{
+  background-color: #B1D0E0;
+  padding: 7.5% 15% 7.5% 15%;
+  text-align: center;
+}
+
+.ctaa{
+  padding-bottom: 7%;
+}
+
+.ctap{
+  font-size: 2.2rem;
+}
+
+.cta-button{
+  margin-right: 4%;
+}
+
+#footer{
+  text-align: center;
+  background: #F0F0F0;
+  padding-bottom: 3%;
+}
+
+.footers{
+  padding: 5% 0 0.5% 0;
+}
+
+.icon{
+  color: gray;
+  margin-left: 6px;
+}
+
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+
+  .slayerimg{
+    width: 40%;
+    border-radius: 25%;
+    transform: rotate(20deg);
+  }
+
+  h1
+  {
+    line-height: 0.5;
+    font-Size: 2rem;
+  }
+
+  .navbar-brand{
+    font-size: 0.9rem;
+  }
+
+  .nav-link{
+    font-size: 0.9rem;
+  }
+
+  .tan1{
+    width: 25%;
+    border-radius: 25%;
+    margin: 10px;
+  }
+
+  .tan{
+    width: 17%;
+    border-radius: 25%;
+    margin: 10px;
+  }
+
+  #features{
+    margin-top: 190px;
+    margin-bottom: 190px;
+  }
+
+
+
+}
